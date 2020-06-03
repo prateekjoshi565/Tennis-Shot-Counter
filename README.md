@@ -1,1 +1,1 @@
-# Tennis-Shot-Counter
+# Tennis Shot Counter
